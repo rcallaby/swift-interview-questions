@@ -1,2 +1,11 @@
 # swift-interview-questions
-A repository of Swift technical interview questions
+
+If you're thinking about diving into Swift, brushing up on technical questions is a no-brainer—especially if you're eyeing a job in iOS development. Swift is Apple’s go-to language, and it’s not just about writing pretty apps. Mastering Swift’s technical questions means understanding memory management, protocol-oriented programming, and how Swift’s type system works under the hood. Employers aren’t just looking for people who can throw together a UI in SwiftUI—they want devs who know how ARC (Automatic Reference Counting) works, when to use `weak` vs. `unowned`, and how to optimize performance using value types over reference types.  
+
+Another big reason to prep for technical Swift questions? Apple’s ecosystem is evolving fast, and Swift is at the core of it. With each new iOS update, Swift gains more powerful features—async/await for concurrency, property wrappers for cleaner code, and improvements to generics. If you don’t stay sharp on these concepts, you’ll fall behind real quick. Plus, a lot of interviewers like to throw in algorithm and data structure problems in Swift, so knowing how to implement things like linked lists, binary trees, or efficient search/sort algorithms in a Swift-friendly way will set you apart from candidates who only know how to work with UIKit or SwiftUI.  
+
+Finally, prepping for Swift technical questions helps you write better, more maintainable code in the long run. When you understand how Swift handles things like optionals, error handling, and memory safety, you naturally start writing cleaner, more efficient code. And let’s be real—nothing’s worse than debugging a force-unwrapped optional that crashes your app in production. Studying Swift deeply means fewer "WTF" moments later when things go sideways. Whether you're gearing up for an interview or just want to level up, digging into technical Swift questions is one of the best ways to sharpen your skills and future-proof your career.
+
+This is meant to be a helpful resource, if you have suggestions for other questions or even question types please feel free to post an issue on this repository. If you find any errors please feel free to point them out with sources to back up your arguments.
+
+## Table of Contents
